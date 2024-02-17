@@ -32,7 +32,7 @@ Model Evaluation:
 
 The trained model is used to make predictions on the training data (X_train1), and the results are compared with the actual values.
 A plot is generated to visualize the predicted values against the actual values.
-# Run GUI Enviroment : 
-First Run main.py 
-Choose your csv file
-Finally you can see predictions 
+# Run GUI Environment : 
+1) First Run main.py 
+2) Choose your csv file
+3) Finally you can see predictions 
